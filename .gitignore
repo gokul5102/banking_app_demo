@@ -1,0 +1,6 @@
+.env
+venv
+/venv
+/commands.txt
+commands.txt
+db.sqlite3
